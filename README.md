@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonathan-Ball
-- 👀 I’m interested in C#, Powershell, Python and various other programming technologies...
-- 🌱 I’m currently learning Advanced Powershell, Python and C#...
-- 💞️ I’m looking to collaborate on C# programs, Python programs and even Powershell automation...
+- 👀 I’m interested in C#, Powershell, Python and various other programming technologies.
+- 🌱 I’m currently learning C#, Entity Framework and Desktop UI Technologies.
+- 💞️ I’m looking to collaborate on C# programs, Python programs and even Powershell automation.
 
 <!---
 Jonathan-Ball/Jonathan-Ball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
