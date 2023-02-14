@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonathan-Ball
 - 👀 I’m proficient in C#, Powershell and I am interested in Typescript and various other programming languages.
-- 🌱 I’m currently work with C#, SQL, Entity Framework and Desktop UI Technologies amongst others.
+- 🌱 I currently work with C#, SQL, Entity Framework and Desktop UI Technologies amongst others.
 - 💞️ I’m looking to collaborate on C# programs, Angular programs and even Powershell automation.
 
 <!---
